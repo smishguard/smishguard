@@ -33,10 +33,10 @@ Bienvenido al proyecto SmishGuard. Este proyecto está compuesto por múltiples 
 Cada repositorio contiene su propio archivo README con instrucciones de instalación y configuración específica. Asegúrate de revisar cada uno de ellos para una guía completa sobre cómo implementar cada componente.
 
 ## Colaboradores
-Daniel Alzate               -      https://github.com/XxDaniel-AlzatexX 
-Juan Esteban Reyes          -      https://github.com/JuanReyesT
-Esteban Pedraza             -      https://github.com/MrEstebban
-Iván Alejandro Martínez     -      https://github.com/iamartinezg
+   - Daniel Alzate               -      https://github.com/XxDaniel-AlzatexX 
+   - Juan Esteban Reyes          -      https://github.com/JuanReyesT
+   - Esteban Pedraza             -      https://github.com/MrEstebban
+   - Iván Alejandro Martínez     -      https://github.com/iamartinezg
 
 
 Gracias por tu interés en SmishGuard. Esperamos que esta documentación te sea de ayuda para explorar y comprender mejor cada una de las partes del proyecto.
