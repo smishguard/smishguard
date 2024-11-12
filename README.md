@@ -31,6 +31,7 @@ Bienvenido al proyecto SmishGuard. Este proyecto está compuesto por múltiples 
 ## Instalación y Configuración
 
 Cada repositorio contiene su propio archivo README con instrucciones de instalación y configuración específica. Asegúrate de revisar cada uno de ellos para una guía completa sobre cómo implementar cada componente.
+La app, completamente funcional, proximante estará disponible en google play store.
 
 ## Colaboradores
    - Daniel Alzate               -      https://github.com/XxDaniel-AlzatexX 
